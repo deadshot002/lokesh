@@ -1,3 +1,3 @@
 link :-
-l.lokeshjangir.me
+http://l.lokeshjangir.me
 
